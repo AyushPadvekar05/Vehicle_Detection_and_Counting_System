@@ -1,0 +1,27 @@
+names:
+- '0'
+- '1'
+- AB
+- BUS
+- Bike
+- Bus
+- Tractor
+- Truck
+- autorikshaw
+- bike
+- bus
+- car
+- cars
+- motorcycle
+- rikshaw
+- truck
+nc: 16
+roboflow:
+  license: CC BY 4.0
+  project: vehicle-detection-pxftz
+  url: https://universe.roboflow.com/sahrdaya/vehicle-detection-pxftz/dataset/3
+  version: 3
+  workspace: sahrdaya
+test: ../test/images
+train: Vehicle-detection-3/train/images
+val: Vehicle-detection-3/valid/images
