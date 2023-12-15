@@ -28,7 +28,6 @@ cd ultralytics/yolo/v8/detect
 
 - Run the code with mentioned command below.
 
-```
 - For yolov8 object detection + Tracking + Vehicle Counting
 ```
 python predict.py model=yolov8l.pt source="test3.mp4" show=True
