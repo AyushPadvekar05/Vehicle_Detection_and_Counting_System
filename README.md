@@ -36,9 +36,9 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 ### RESULTS
 
 #### Vehicles Detection, Tracking and Counting 
-![](./figure/figure1.png)
+![](https://github.com/AyushPadvekar05/Vehicle_Detection_and_Counting_System/blob/main/Screenshot%202023-12-15%20135746.png)
 
 #### Vehicles Detection, Tracking and Counting
 
-![](./figure/figure3.png)
+![](https://github.com/AyushPadvekar05/Vehicle_Detection_and_Counting_System/blob/main/Screenshot%202023-12-15%20135804.png)
 
